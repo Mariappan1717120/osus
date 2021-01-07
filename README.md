@@ -1,1 +1,0 @@
-# osus lab
